@@ -1,2 +1,3 @@
+flake8>=3.9.2,<3.10
 DJango >=3.2.4,<3.3
-djangorestframework >=3.12.4, <3.13
+djangorestframework >=3.12.4,<3.13
